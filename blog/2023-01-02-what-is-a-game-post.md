@@ -7,6 +7,8 @@ authors: jkottler
 Since this is a blog about game design, I thought it would be valuable for me to present my best understanding about what a **game** actually *is*. How do you reliably identify a game? Especially if there are things that are game-like but you're not sure if they're games or not, a solid definition can help make distinctions like that.
 
 I have put some significant thought into this question and here are characteristics that I belive must all be satisfied in order for something to qualify as a game:
+
+<!--truncate-->
 - It is an activity in which there are knowing, willing, participants
 	- These participants are *players*
 	- Unknowing participants may exist, but they are not players
