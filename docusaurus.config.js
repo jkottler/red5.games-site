@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Red 5 Games',
+  title: 'Red5 Games',
   tagline: 'Games are Fun',
   url: 'https://red5.games',
   baseUrl: '/',
