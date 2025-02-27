@@ -1,7 +1,8 @@
 ---
-title: What is a Game?
+title: What's in a Game?
 description: Discussion about the definition of games
 authors: jkottler
+draft: true
 ---
 
 Since this is a blog about game design, I thought it would be valuable for me to present my best understanding about what a **game** actually *is*. How do you reliably identify a game? Especially if there are things that are game-like but you're not sure if they're games or not, a solid definition can help make distinctions like that.
